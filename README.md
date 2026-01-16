@@ -1,71 +1,107 @@
-Hi, I'm Abhay Vishe
-🚀 Data & Technology Aspirant | Insight-Led Thinker | Analytics-Focused Problem Solver
+# Abhay Vishe | Data Analyst | Business Intelligence | Analytics-Driven Decision Making
 
-I operate at the intersection of data, technology, and business impact—building analytical solutions that transform raw data into actionable intelligence. My work reflects a forward-looking mindset, consistent learning velocity, and a commitment to developing scalable, insight-driven systems.
+## Converting raw data into structured insights that support business decisions and performance optimization.
 
+---
 
-🌟 Personal Branding
+## Professional Summary
+Early-career **Data Analyst** with hands-on experience in **Python, SQL, Excel, Power BI, and Statistics**, focused on delivering **decision-ready insights** rather than academic outputs. Proven ability to analyze datasets end-to-end—data cleaning, exploration, KPI design, and dashboarding—while aligning analysis with real business objectives. Strong analytical thinking, structured execution, and a continuous improvement mindset. Open to onsite and hybrid opportunities across India.
 
-• Value Proposition: Turning data into decision-ready insights  
-• Strength Profile: Analytical depth, structured execution, performance-driven thinking  
-• Work Philosophy: Precision, clarity, and continuous improvement  
-• Career Focus: Data Analytics, BI, Data Engineering  
+---
 
+## Core Value Proposition
+- Translate complex data into clear, actionable insights  
+- Build analytics solutions with measurable business relevance  
+- Support data-driven decision-making through clarity and precision  
 
+---
 
-🎯 Featured Work
+## Technical Skill Stack
 
-Projects curated to showcase real-world relevance and analytical maturity.
+### Programming & Data Analysis
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Joins, Aggregations, Subqueries)
 
-🔋 EV Market Analysis
+### Business Intelligence & Reporting
+- Power BI (Data Modeling, Visual Analytics, Insight Storytelling)
+- Excel (Dashboards, Advanced Formulas, MIS Reporting)
 
-Comprehensive analytics initiative covering EV adoption, charging infrastructure, geographical segmentation, and demand forecasting.
-Impact: Revealed key scalability drivers and future market opportunities using data-backed KPIs.
+### Analytics & Statistics
+- Data Cleaning & Preprocessing
+- Trend and Pattern Analysis
+- KPI Design and Performance Tracking
+- Comparative and Segment Analysis
 
-📈 Shop Sales Data Analysis
+### Tools & Ecosystem
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
 
-End-to-end EDA workflow delivering revenue insights, trend analysis, customer behavior signals, and store-level performance patterns.
+---
 
-📦 Stock Management System
+## Featured Projects
 
-Python-powered inventory visibility and tracking system enabling operational clarity and update automation.
+### EV Market Analysis
+**Business Problem:** Understand EV adoption trends, infrastructure readiness, and market scalability  
+**Approach:** Analyzed adoption data, charging infrastructure metrics, and geographic patterns using Python and visualization techniques  
+**Impact:** Identified key growth drivers and future market opportunities through data-backed KPIs  
 
-🛠 Mini Data Projects
+---
 
-A growing collection of analytical notebooks and scripts demonstrating rapid skill expansion and domain adaptability.
+### Shop Sales Data Analysis
+**Business Problem:** Identify revenue trends and performance gaps across stores  
+**Approach:** Conducted end-to-end EDA, revenue analysis, and customer behavior exploration  
+**Impact:** Delivered insights on sales patterns, high-performing categories, and demand trends  
 
+---
 
+### Stock Management System
+**Business Problem:** Improve inventory visibility and operational tracking  
+**Approach:** Built a Python-based inventory tracking system with structured data handling  
+**Impact:** Enabled clearer stock monitoring and reduced manual effort  
 
-🧠 Technical Proficiency
-Programming & Data  
-• Python (Pandas, NumPy, Matplotlib)  
-• SQL (Joins, aggregations, subqueries)  
-• Excel (Dashboards, formulas, reporting)  
-• Power BI (Visualization, insight storytelling)  
+---
 
-Tools & Ecosystem  
-• Git, GitHub  
-• Jupyter Notebook  
-• VS Code  
+### Mini Data Projects
+**Scope:** Collection of analytical notebooks and scripts  
+**Focus:** Rapid experimentation, domain adaptability, and continuous skill expansion  
 
-📈 Analytical Capabilities
-• Data cleaning & preprocessing  
-• Trend discovery & pattern recognition  
-• KPI design & insight modeling  
-• Comparative & segment analysis  
-• Business-focused storytelling  
+---
 
-🚀 Growth Roadmap
-Short-Term  
-• Strengthen SQL + BI stack  
-• Build domain-intensive analytics projects  
-• Expand automation scripts  
+## How I Use Data to Drive Decisions
+- Start with the **business question**, not the tool  
+- Define **clear KPIs and success metrics**  
+- Apply structured analysis to uncover trends and gaps  
+- Communicate insights through **simple, decision-oriented visuals and summaries**  
 
-Long-Term  
-• Develop cloud-aligned data pipelines  
-• Master advanced analytics & machine learning foundations  
-• Transition into high-impact Data Analyst/Data Engineer roles  
+---
 
-📬 Contact Information
-Email: abhayvishe4126@gmail.com  
-GitHub: github.com/Abhayvishe  
+## Current Focus
+- Strengthening SQL and Power BI for enterprise analytics use cases  
+- Building domain-driven analytics projects aligned with real business scenarios  
+- Expanding automation and reusable analysis scripts  
+
+---
+
+## Growth Roadmap
+
+**Short Term**
+- Advanced SQL and BI reporting
+- Business-aligned analytics case studies
+- Process automation with Python
+
+**Long Term**
+- Cloud-aligned data pipelines
+- Advanced analytics and ML foundations
+- Transition into high-impact Data Analyst / Data Engineer roles
+
+---
+
+## Recruiter Call-to-Action
+- Review pinned repositories for end-to-end analytics projects  
+- Open to **Data Analyst, BI Analyst, Junior Data Scientist** opportunities  
+- Available for onsite or hybrid roles across India  
+
+**Email:** abhayvishe4126@gmail.com  
+**GitHub:** https://github.com/Abhayvishe
+

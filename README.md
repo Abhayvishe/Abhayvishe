@@ -98,7 +98,6 @@ Early-career **Data Analyst** with hands-on experience in **Python, SQL, Excel, 
 ---
 
 ## Recruiter Call-to-Action
-- Review pinned repositories for end-to-end analytics projects  
 - Open to **Data Analyst, BI Analyst, Junior Data Scientist** opportunities  
 - Available for onsite or hybrid roles across India  
 

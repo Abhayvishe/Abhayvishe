@@ -62,9 +62,7 @@ Early-career **Data Analyst** with hands-on experience in **Python, SQL, Excel, 
 
 ---
 
-### Mini Data Projects
-**Scope:** Collection of analytical notebooks and scripts  
-**Focus:** Rapid experimentation, domain adaptability, and continuous skill expansion  
+
 
 ---
 

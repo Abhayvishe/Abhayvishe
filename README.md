@@ -63,6 +63,10 @@ Early-career **Data Analyst** with hands-on experience in **Python, SQL, Excel, 
 ---
 
 ### Social-media-analytics-powerbi 
+**Business Insights**
+Posts published during peak hours show higher engagement
+Carousel and reel formats outperform static posts
+Engagement rate declines beyond specific posting frequency threshold
 
 ---
 

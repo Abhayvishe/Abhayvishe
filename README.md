@@ -54,7 +54,7 @@ Early-career **Data Analyst** with hands-on experience in **Python, SQL, Excel, 
 **Impact:** Delivered insights on sales patterns, high-performing categories, and demand trends  
 
 ---
-
+### IPL-Analysis-Dashboard--Power-BI
 
 ---
 

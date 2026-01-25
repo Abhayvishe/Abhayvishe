@@ -57,6 +57,11 @@ Early-career **Data Analyst** with hands-on experience in **Python, SQL, Excel, 
 ### IPL-Analysis-Dashboard--Power-BI
 End-to-end IPL (2008–2025) analytics dashboard built in Power BI, delivering season-wise insights, points table intelligence, and player performance metrics using optimized DAX.
 
+** Business Value
+Enables quick decision-making for analysts and cricket strategists
+Converts historical IPL data into performance intelligence
+Scalable model to extend for predictive analytics
+
 
 ---
 

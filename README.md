@@ -55,10 +55,6 @@ Early-career **Data Analyst** with hands-on experience in **Python, SQL, Excel, 
 
 ---
 
-### Stock Management System
-**Business Problem:** Improve inventory visibility and operational tracking  
-**Approach:** Built a Python-based inventory tracking system with structured data handling  
-**Impact:** Enabled clearer stock monitoring and reduced manual effort  
 
 ---
 

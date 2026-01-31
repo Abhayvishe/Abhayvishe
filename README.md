@@ -11,38 +11,22 @@ High-potential data professional with strong analytical fundamentals, **quantifi
 
 
 
-## 🧠 Quantified Problem-Solving (Live & Verifiable)
+## 🧠 Quantified Problem-Solving (Live Metrics)
 
-> These sections show **exact problem counts** once usernames are correctly added.  
-> Recruiters see real numbers, not claims.
+> Recruiter-verifiable performance statistics — auto-updated.
 
-### LeetCode — Problems Solved (Auto-Updated)
+### LeetCode — Problems Solved (Live)
 <p align="left">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/Abhay4126">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Inter&ext=heatmap" />
+  <a href="https://leetcode.com/u/Abhay4126/">
+    <img src="https://leetcard.jacoblin.cool/Abhay4126?theme=light&font=Inter&ext=heatmap" />
   </a>
 </p>
 
-**Displays automatically:**
+**Displayed Automatically**
 - Total problems solved  
-- Easy / Medium / Hard split  
-- Daily activity heatmap  
-- Global ranking  
+- Problem breakdown (Easy / Medium / Hard)  
+- Daily activity heatmap
 
----
-
-### HackerRank — Skill Validation
-<p align="left">
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-    <img src="https://img.shields.io/badge/HackerRank-SQL_%26_Python_Verified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
-
-**Focus Areas:**  
-- SQL (Basic → Advanced)  
-- Python (Problem Solving)
-
-> These profiles **quantify** fundamentals and execution capability—critical for fresher screening.
 
 ---
 
@@ -130,7 +114,7 @@ I have delivered end-to-end analytics projects across **retail sales forecasting
 - GitHub: https://github.com/Abhayvishe  
 - LeetCode:https://leetcode.com/u/Abhay4126  
 - HackerRank:https://www.hackerrank.com/profile/abhayvishe4126
-- LinkedIn: *(add your LinkedIn URL)*
+- LinkedIn: https://www.linkedin.com/in/abhay-vishe/
 
 Open to **Data Analyst roles, analytics internships, and high-impact data projects** where fundamentals, execution, and long-term growth matter.
 

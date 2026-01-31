@@ -1,111 +1,132 @@
-# Abhay Vishe | Data Analyst | Business Intelligence | Analytics-Driven Decision Making
-
-## Converting raw data into structured insights that support business decisions and performance optimization.
-
----
-
-## Professional Summary
-Early-career **Data Analyst** with hands-on experience in **Python, SQL, Excel, Power BI, and Statistics**, focused on delivering **decision-ready insights** rather than academic outputs. Proven ability to analyze datasets end-to-end—data cleaning, exploration, KPI design, and dashboarding—while aligning analysis with real business objectives. Strong analytical thinking, structured execution, and a continuous improvement mindset. Open to onsite and hybrid opportunities across India.
+# Abhay Vishe  
+**Data Analyst → Data Scientist / ML Engineer**
 
 ---
 
-## Core Value Proposition
-- Translate complex data into clear, actionable insights  
-- Build analytics solutions with measurable business relevance  
-- Support data-driven decision-making through clarity and precision  
+## 🚀 Value Proposition
+
+High-potential data professional with strong analytical fundamentals, **quantified problem-solving proof**, and hands-on experience delivering real-world, decision-driven analytics. I turn raw data into confident business decisions today while deliberately compounding toward scalable ML systems for tomorrow.
 
 ---
 
-## Technical Skill Stack
+## 🧠 Quantified Problem-Solving Signal (Live)
 
-### Programming & Data Analysis
-- Python (Pandas, NumPy, Matplotlib)
-- SQL (Joins, Aggregations, Subqueries)
+> Recruiter-verifiable metrics. Auto-updated. Zero self-claims.
 
-### Business Intelligence & Reporting
-- Power BI (Data Modeling, Visual Analytics, Insight Storytelling)
-- Excel (Dashboards, Advanced Formulas, MIS Reporting)
+### LeetCode
+<p align="left">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=light" />
+  </a>
+</p>
 
-### Analytics & Statistics
-- Data Cleaning & Preprocessing
-- Trend and Pattern Analysis
-- KPI Design and Performance Tracking
-- Comparative and Segment Analysis
-
-### Tools & Ecosystem
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
+**Coverage:** SQL • Python • Data Structures • Logical Reasoning  
+**Signal:** Consistency, algorithmic thinking, interview readiness
 
 ---
 
-## Featured Projects
+### HackerRank
+<p align="left">
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+    <img src="https://img.shields.io/badge/HackerRank-Verified_SQL_&_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
-### EV Market Analysis
-**Business Problem:** Understand EV adoption trends, infrastructure readiness, and market scalability  
-**Approach:** Analyzed adoption data, charging infrastructure metrics, and geographic patterns using Python and visualization techniques  
-**Impact:** Identified key growth drivers and future market opportunities through data-backed KPIs  
+**Focus Areas:**  
+- SQL (Basic → Advanced)  
+- Python (Problem Solving)
 
----
-
-### Shop Sales Data Analysis
-**Business Problem:** Identify revenue trends and performance gaps across stores  
-**Approach:** Conducted end-to-end EDA, revenue analysis, and customer behavior exploration  
-**Impact:** Delivered insights on sales patterns, high-performing categories, and demand trends  
-
----
-### IPL-Analysis-Dashboard--Power-BI
-End-to-end IPL (2008–2025) analytics dashboard built in Power BI, delivering season-wise insights, points table intelligence, and player performance metrics using optimized DAX.
-
-** Business Value
-Enables quick decision-making for analysts and cricket strategists
-Converts historical IPL data into performance intelligence
-Scalable model to extend for predictive analytics
-
+> These profiles **quantify** fundamentals and execution capability—critical for fresher screening.
 
 ---
 
-### Social-media-analytics-powerbi 
-**Business Insights**
-Posts published during peak hours show higher engagement
-Carousel and reel formats outperform static posts
-Engagement rate declines beyond specific posting frequency threshold
+## 📌 Executive Summary
+
+I am an early-career data professional (0–1 years) with a strong bias toward **structured problem solving and outcome-driven analytics**. My core strength lies in combining SQL, Python, and statistics to solve realistic business problems under real constraints.
+
+I have delivered end-to-end analytics projects across **retail sales forecasting** and **inventory optimization**, working with messy data, seasonality, and operational trade-offs.
+
+**Short term:** High-impact **Data Analyst**  
+**Long term:** **Data Scientist / ML Engineer** at a top product-based company (NVIDIA-level)
 
 ---
 
-## How I Use Data to Drive Decisions
-- Start with the **business question**, not the tool  
-- Define **clear KPIs and success metrics**  
-- Apply structured analysis to uncover trends and gaps  
-- Communicate insights through **simple, decision-oriented visuals and summaries**  
+## 🧩 Core Technical Stack
+
+**Languages & Querying**
+- Python (Pandas, NumPy)
+- SQL (Joins, CTEs, Subqueries, Window Functions)
+
+**Analytics & Data Science**
+- Data Cleaning & Feature Engineering  
+- Exploratory Data Analysis (EDA)  
+- Probability & Hypothesis Testing  
+- Machine Learning Fundamentals
+
+**Visualization & BI**
+- Matplotlib, Seaborn  
+- Power BI (Dashboards, KPI Tracking)
+
+**Execution Practices**
+- Metric-driven analysis  
+- Reproducible workflows  
+- Business-first framing
 
 ---
 
-## Current Focus
-- Strengthening SQL and Power BI for enterprise analytics use cases  
-- Building domain-driven analytics projects aligned with real business scenarios  
-- Expanding automation and reusable analysis scripts  
+## 📊 Highlighted Projects
+
+### Retail Sales Analytics & Forecasting
+**Problem:** Inconsistent sales performance and weak demand visibility  
+**Approach:**  
+- Cleaned and standardized transactional data  
+- Analyzed trends, seasonality, and growth drivers  
+- Built forecasting models for future demand  
+**Impact:**  
+- Enabled data-backed inventory and revenue planning  
+- Identified high-impact product categories and seasonal patterns  
 
 ---
 
-## Growth Roadmap
-
-**Short Term**
-- Advanced SQL and BI reporting
-- Business-aligned analytics case studies
-- Process automation with Python
-
-**Long Term**
-- Cloud-aligned data pipelines
-- Advanced analytics and ML foundations
-- Transition into high-impact Data Analyst / Data Engineer roles
+### Inventory / Stock Management Analysis
+**Problem:** Inefficient stock utilization and unclear restocking signals  
+**Approach:**  
+- Analyzed sales velocity and stock aging  
+- Segmented inventory by movement behavior  
+- Designed operational KPIs  
+**Impact:**  
+- Improved restocking and clearance decisions  
+- Increased inventory planning clarity  
 
 ---
 
-## Recruiter Call-to-Action
-- Open to **Data Analyst, BI Analyst, Junior Data Scientist** opportunities  
-- Available for onsite or hybrid roles across India  
+## 🔄 Currently Building
 
-**Email:** abhayvishe4126@gmail.com  
-**GitHub:** https://github.com/Abhayvishe
+- Advanced SQL analytics and query optimization  
+- Machine learning depth (model evaluation, bias–variance trade-offs)  
+- Interview-grade DSA, SQL, and analytics problem-solving  
+- Resume-aligned, real-world analytics projects
+
+---
+
+## 🎯 Why I’m a Strong Early-Career Hire
+
+- **Numbers > narratives:** Live problem counts, not vague claims  
+- **Strong fundamentals:** Statistics, SQL, Python at the core  
+- **Low ramp-up risk:** Real-world, end-to-end project execution  
+- **High growth ceiling:** Analyst → Data Scientist trajectory  
+- **Ownership mindset:** Structured, accountable, outcome-driven  
+
+---
+
+## 🤝 Connect
+
+- GitHub: https://github.com/Abhayvishe  
+- LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME/  
+- HackerRank: https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME  
+- LinkedIn: *(add your LinkedIn URL)*
+
+Open to **Data Analyst roles, analytics internships, and high-impact data projects** where fundamentals, execution, and long-term growth matter.
+
+
 

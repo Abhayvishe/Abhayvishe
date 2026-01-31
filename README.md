@@ -15,7 +15,7 @@ High-potential data professional with strong analytical fundamentals, **quantifi
 
 > Recruiter-verifiable performance statistics — auto-updated.
 
-### LeetCode — Problems Solved (Live)
+### LeetCode — Problems Solved 
 <p align="left">
   <a href="https://leetcode.com/u/Abhay4126/">
     <img src="https://leetcard.jacoblin.cool/Abhay4126?theme=light&font=Inter&ext=heatmap" />

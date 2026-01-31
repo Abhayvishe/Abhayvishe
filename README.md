@@ -13,7 +13,7 @@ High-potential data professional with strong analytical fundamentals, **quantifi
 
 ## 🧠 Quantified Problem-Solving (Live Metrics)
 
-> Recruiter-verifiable performance statistics — auto-updated.
+>  performance statistics.
 
 ### LeetCode — Problems Solved 
 <p align="left">

@@ -15,7 +15,7 @@ High-potential data professional with strong analytical fundamentals, **quantifi
 
 ### LeetCode
 <p align="left">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/u/Abhay4126/">
     <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=light" />
   </a>
 </p>
@@ -27,7 +27,7 @@ High-potential data professional with strong analytical fundamentals, **quantifi
 
 ### HackerRank
 <p align="left">
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+  <a href="https://www.hackerrank.com/profile/abhayvishe4126">
     <img src="https://img.shields.io/badge/HackerRank-Verified_SQL_&_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
@@ -122,8 +122,8 @@ I have delivered end-to-end analytics projects across **retail sales forecasting
 ## 🤝 Connect
 
 - GitHub: https://github.com/Abhayvishe  
-- LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME/  
-- HackerRank: https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME  
+- LeetCode:https://leetcode.com/u/Abhay4126  
+- HackerRank:https://www.hackerrank.com/profile/abhayvishe4126
 - LinkedIn: *(add your LinkedIn URL)*
 
 Open to **Data Analyst roles, analytics internships, and high-impact data projects** where fundamentals, execution, and long-term growth matter.

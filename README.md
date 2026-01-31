@@ -9,26 +9,32 @@ High-potential data professional with strong analytical fundamentals, **quantifi
 
 ---
 
-## 🧠 Quantified Problem-Solving Signal (Live)
 
-> Recruiter-verifiable metrics. Auto-updated. Zero self-claims.
 
-### LeetCode
+## 🧠 Quantified Problem-Solving (Live & Verifiable)
+
+> These sections show **exact problem counts** once usernames are correctly added.  
+> Recruiters see real numbers, not claims.
+
+### LeetCode — Problems Solved (Auto-Updated)
 <p align="left">
-  <a href="https://leetcode.com/u/Abhay4126/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=light" />
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/Abhay4126">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Inter&ext=heatmap" />
   </a>
 </p>
 
-**Coverage:** SQL • Python • Data Structures • Logical Reasoning  
-**Signal:** Consistency, algorithmic thinking, interview readiness
+**Displays automatically:**
+- Total problems solved  
+- Easy / Medium / Hard split  
+- Daily activity heatmap  
+- Global ranking  
 
 ---
 
-### HackerRank
+### HackerRank — Skill Validation
 <p align="left">
-  <a href="https://www.hackerrank.com/profile/abhayvishe4126">
-    <img src="https://img.shields.io/badge/HackerRank-Verified_SQL_&_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+    <img src="https://img.shields.io/badge/HackerRank-SQL_%26_Python_Verified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 

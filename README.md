@@ -116,7 +116,7 @@ I have delivered end-to-end analytics projects across **retail sales forecasting
 - HackerRank:https://www.hackerrank.com/profile/abhayvishe4126
 - LinkedIn: https://www.linkedin.com/in/abhay-vishe/
 
-Open to **Data Analyst roles, analytics internships, and high-impact data projects** where fundamentals, execution, and long-term growth matter.
+Open to **Data Analyst roles, analytics internships where fundamentals, execution, and long-term growth matter.
 
 
 

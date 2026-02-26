@@ -105,7 +105,7 @@ I have delivered end-to-end analytics projects across **retail sales forecasting
 - **Strong fundamentals:** Statistics, SQL, Python at the core  
 - **Low ramp-up risk:** Real-world, end-to-end project execution  
 - **High growth ceiling:** Analyst → Data Scientist trajectory  
-- **Ownership mindset:** Structured, accountable, outcome-driven  
+- **Ownership mindset:** Structured, accountable, outcome-driven.
 
 ---
 
